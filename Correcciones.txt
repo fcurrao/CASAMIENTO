@@ -1,0 +1,46 @@
+Hola Fede, cómo estás? Te marco algunas cositas para que revises:
+
+-----------------------------------
+ver clases 13 y 14.
+------------------
+
+
+1
+Te está faltando anidar mejor las etiquetas, hay muchas que están en la misma línea y se hace difícil la lectura. 
+Recordá también tabular las propiedades 
+de tu css para que no queden en la misma línea que la clase, etiqueta o id.
+
+
+2
+No te está funcionando el navbar de boostrap, te recomiendo que copies directamente todo el componente de boostrap en tu proyecto y después 
+lo modifiques a tu gusto. Si usas el navbar de boostrap sacá el otro para que no te queden dos barras de navegación.
+Tratá de ajustar un poco más la parte mobile para que no se te rompan las estructuras al achicar la pantalla (usa el sistema de grillas de
+boostrap que te puede ayudar mucho con eso )
+------
+El menú de navegación no te funciona correctamente, 
+revisá todas las rutas.
+ Dale estilos a tu menú y sub menú, actualmente se ve como una lista
+ y no funciona como sub menú.
+
+
+
+3
+Para ésta instancia tenés que elegir una paleta de colores con buen contraste para utilizar en todo tu sitio y contenido “real” en todas tus secciones
+ (textos, imágenes, etc que sean acordes al tema de la web y a los prototipos que hiciste en la entrega anterior). Tenés muchas secciones pero todas están vacías, 
+siendo que no tenes contenido todavía, te recomiendo que elijas 5 y que las armes bien, ya que ponerle contenido real a todas ellas te va a llevar bastante tiempo 
+y con 5 es suficiente para el proyecto (las que no uses sacalas).
+
+
+4
+entregas MAL ECHAS:
+11 - 12  - 13 
+
+
+5
+MAL ECHA ENTREGA 3 PERIODO DEL PROYECTO:!!
+
+
+
+-----------------------------------
+
+Cualquier cosa escribime por slack ;)
